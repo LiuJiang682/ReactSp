@@ -1,0 +1,8 @@
+{
+  "short_name": "React Spring Rest App",
+  "name": "Create React Spring Rest App Sample",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
